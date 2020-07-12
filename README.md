@@ -1,2 +1,2 @@
 # Website
-Just a personal website 
+Just a personal single paged website 
